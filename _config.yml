@@ -1,0 +1,23 @@
+name: Walling
+favicon: null
+layout_spectrum: 0.0991467833518982
+typography_spectrum: 0.9556419034488499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10934324655681849
+  lightness: 0.9696786077693105
+  saturation: 0.5604743412695825
+  rhythmicContrast: 0.27342150267213583
+purpose: []
